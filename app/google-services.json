@@ -1,0 +1,51 @@
+{
+  "project_info": {
+    "project_number": "724672227754",
+    "firebase_url": "https://scheduler-e4617.firebaseio.com",
+    "project_id": "scheduler-e4617",
+    "storage_bucket": "scheduler-e4617.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724672227754:android:5e8d66641e327082",
+        "android_client_info": {
+          "package_name": "com.george.scheduler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "724672227754-gl7v4i2bc5m1kav3a6ij31lkq3lrskis.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.george.scheduler",
+            "certificate_hash": "6F66394CDB9C0B8EC3D07D38B770C15CDDBEBD3F"
+          }
+        },
+        {
+          "client_id": "724672227754-q5m4g02scsdc23nal0is6ml9gr9ie6s6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [{ "current_key": "" }],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "724672227754-q5m4g02scsdc23nal0is6ml9gr9ie6s6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
