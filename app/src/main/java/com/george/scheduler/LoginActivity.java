@@ -107,7 +107,7 @@ public class LoginActivity
 									Toast.LENGTH_SHORT).show();
 						} else {
 							Toast.makeText(LoginActivity.this, "Welcome " + mFirebaseUser.getDisplayName() + "!", Toast.LENGTH_SHORT).show();
-							startActivity(new Intent(LoginActivity.this, MainActivity.class));
+							startActivity(new Intent(LoginActivity.this, CalendarActivity.class));
 							finish();
 						}
 					}
@@ -125,7 +125,7 @@ public class LoginActivity
 
 /*
 	// This is for logging out //
-	// Move to MainActivity, in the selection menu, in the future //
+	// Move to CalendarActivity, in the selection menu, in the future //
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
         switch (item.getItemId()) {
